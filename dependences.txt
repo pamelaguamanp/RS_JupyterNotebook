@@ -3,9 +3,7 @@ xarray
 scipy
 h5netcdf
 netCDF4
-
 matplotlib
 rasterio
 geopandas
-
 odc-geo
