@@ -46,6 +46,7 @@ Date | NDVI average | Average NDVI (Month)
 11/20/2021|0.659958|
 11/23/2021|0.678537|
 11/25/2021|0.640067|
+
 The Normalized Difference Vegetation Index, (NDVI), is an index that allows for determining the quality of the vegetation. It is currently the index of the most used vegetation. NDVI is an index to measure vegetation's amount and health in an area. It is calculated by dividing the difference between the near-infrared (NIR) and red bands of a satellite image by their sum. Its range is from -1 to 1; the higher values indicate a higher green/healthy vegetation density, and low values refer to low/unhealthy density vegetation. Other surfaces like water or clouds can have negative values that cannot be ruled out.
 The table shows the values of ndvi for 2021 from April until November. For April, we can see an average value of 0.57 around. According to some authors, this value means “average vegetation” (0.5-0.7), which can be described as dense and normal healthy vegetation. It happens the same in October (0.67) and November (0.65) 
 For may, the value average is 0.71, for June is 0.85; for July 0.86; for august 0.79; for September 0.84; until here, the ndvi values can be considered as “health vegetation” (Range 0.7-1). 
