@@ -5,7 +5,7 @@ This repository was created to upload files that complement tasks described in *
 
 # Dependences
 
-The file **"dependences.txt"** contains all library dependences necesary to run the notebook **"TASK Intership.ipynb"**. The libraries and modules are:
+The file **"dependences.txt"** contains all library dependences necesary to run the notebook **"Codes_Task.ipynb"**. The libraries and modules are:
 - numpy
 - xarray
 - scipy
