@@ -19,7 +19,7 @@ The file **"dependences.txt"** contains all library dependences necesary to run 
 
 The files **geospatial_test_datacube.nc** and **geospatial_sub_aoi.geojson** contains the dataset and the sub AOI provided for this project. 
 
-# TASK Internship.ipynb
+# Codes_Task.ipynb
 
 This file is the Jupyter notebook that contains all the code that execute the task described in **"Geospatial task 2023 internship.pdf"**.
 
