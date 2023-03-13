@@ -25,6 +25,8 @@ This file is the Jupyter notebook that contains all the code that execute the ta
 
 # Question 2
 
+A brief description of your interpretation of the spatial distribution and evolution of the NDVI/vegetation
+
 Date | NDVI average | Average NDVI (Month)
 ------------- | ------------- | -------------
 4/9/2021 | 0.560181 | 0.57217167
