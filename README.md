@@ -2,9 +2,6 @@
 
 This repository was created to upload files that complement tasks described in **"Geospatial task 2023 internship.pdf"**. 
 
-[TOCM]
-
-[TOC]
 
 # Dependences
 
