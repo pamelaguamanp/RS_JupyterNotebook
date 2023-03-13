@@ -5,6 +5,7 @@ This repository was created to upload files that complement tasks described in *
 **File content**
 
 ###Dependences
+
 The file **"dependences.txt"** contains all library dependences necesary to run the notebook **"TASK Intership.ipynb"**. The libraries and modules are:
 - numpy
 - xarray
@@ -16,9 +17,13 @@ The file **"dependences.txt"** contains all library dependences necesary to run 
 - geopandas
 - odc-geo
 ####Data
+
 The files **geospatial_test_datacube.nc** and **geospatial_sub_aoi.geojson** contains the dataset and the sub AOI provided for this project. 
+
 ###TASK Internship.ipynb
+
 This file is the Jupyter notebook that contains all the code that execute the task described in **"Geospatial task 2023 internship.pdf"**.
+
 ####Question 2
 
 Date | NDVI average | Average NDVI (Month)
