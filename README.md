@@ -2,8 +2,6 @@
 
 This repository was created to upload files that complement tasks described in **"Geospatial task 2023 internship.pdf"**. 
 
-**File content**
-
 # Dependences
 
 The file **"dependences.txt"** contains all library dependences necesary to run the notebook **"TASK Intership.ipynb"**. The libraries and modules are:
