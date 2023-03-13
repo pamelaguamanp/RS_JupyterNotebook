@@ -7,6 +7,7 @@ This repository was created to upload files that complement tasks described in *
 [TOCM]
 
 [TOC]
+
 #Dependences
 The file **"dependences.txt"** contains all library dependences necesary to run the notebook **"TASK Intership.ipynb"**. The libraries and modules are:
 - numpy
