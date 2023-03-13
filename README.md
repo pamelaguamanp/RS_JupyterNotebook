@@ -22,7 +22,7 @@ This file is the Jupyter notebook that contains all the code that execute the ta
 #Question 2
 
 Date | NDVI average | Average NDVI (Month)
-------------- | -------------
+------------- | ------------- | -------------
 4/9/2021 | 0.560181 | 0.57217167
 4/14/2021| 0.579453|
 4/27/2021|0.576881|
